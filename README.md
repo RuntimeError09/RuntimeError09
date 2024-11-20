@@ -7,21 +7,13 @@
 <hr>
 
 ## 💬 Ask me about
-- Backend development (C++, C#, Java, Python)
-- Frontend development (C#, .net)
+- Backend development 
+- Frontend development 
 - Data Structures and Algorithms
-- Cloud Architecture
+- HLD & LLD
 - Design Patterns
-- Git Statistics
- 
 
 <br/><br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
 
 <h2>:book: Guestbook</h2>
 <p>Leave a for any help !!! <a href="https://github.com/RuntimeError09/RuntimeError09/issues/new?template=guestbook-entry.md">here</a>!</p>
